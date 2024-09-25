@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@nuxtjs/tailwindcss": "^6.12.1",
+    "nuxt": "^3.13.0",
+    "vue": "latest",
+    "vue-router": "latest"
+  },
+  "name": "winninghunter",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "postinstall": "nuxt prepare",
+    "preview": "nuxt preview"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@types/vue-router": "^2.0.0"
+  }
+}
